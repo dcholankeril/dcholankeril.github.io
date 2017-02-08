@@ -17,3 +17,7 @@ p {
 p {
     font-family: "Droid Sans", Helvetica, sans-serif;
 }
+
+p {
+    border-style: solid;
+}
