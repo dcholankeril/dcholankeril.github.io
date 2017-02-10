@@ -1,5 +1,5 @@
 body {
-    background-color: lightblue;
+    background-color: mintcream;
 }
 
 h1 {
@@ -20,4 +20,7 @@ p {
 
 p {
     border-style: solid;
+}
+.profile-image {
+    float: right;
 }
