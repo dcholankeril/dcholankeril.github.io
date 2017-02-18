@@ -61,9 +61,6 @@ a {
     -moz-transition: all .35s;
     transition: all .35s;
 }
-=======
-
->>>>>>> d70ca904cbe98a372075757c5d9011c6cc647616
 
 p {
     font-family: "Droid Sans", Helvetica, sans-serif;
@@ -80,16 +77,3 @@ p {
      padding: 20px 30px 20px 30px;
      margin-left: 30px;
 }
-<<<<<<< HEAD
-
-.navbar .navbar-nav {
-  display: inline-block;
-  float: none;
-  vertical-align: top;
-}
-
-.navbar .navbar-collapse {
-  text-align: center;
-}
-=======
->>>>>>> d70ca904cbe98a372075757c5d9011c6cc647616
