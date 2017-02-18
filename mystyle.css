@@ -3,63 +3,12 @@ body {
 }
 
 h1 {
+    float: left;
+    padding-left: 75px;
+    padding-right: 40px;
     color: navy;
-    margin-left: 20px;
-}
-
-<<<<<<< HEAD
-navbar-left {
-    color: navy;
-    margin-left: 50px;
-}
-
-
-.btn-xl {
-    padding: 50px 30px;
-}
-
-.btn {
-    border: 0;
-    border-radius: 300px;
-    font-family: 'Helvetica Neue',Arial,sans-serif;
-    font-weight: bold;
-}
-
-.btn-primary {
-    border-color: dimgrey;
-    color: dimgray;
-    background-color: dimgrey;
-    -webkit-transition: all .35s;
-    -moz-transition: all .35s;
-    transition: all .35s;
-}
-
-.btn {
-    display: inline-block;
-    margin-bottom: 0;
-    font-weight: normal;
-    text-align: center;
-    vertical-align: middle;
-    touch-action: manipulation;
-    cursor: pointer;
-    background-image: none;
-    border: 1px solid transparent;
-    white-space: nowrap;
-    padding: 6px 12px;
-    font-size: 14px;
-    line-height: 1.42857;
-    border-radius: 4px;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-
-a {
-    color: #f05f40;
-    -webkit-transition: all .35s;
-    -moz-transition: all .35s;
-    transition: all .35s;
+    margin-left: 80px;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
 }
 
 p {
@@ -68,8 +17,8 @@ p {
 
 .profile-image {
     float: right;
-    padding-left: 20px;
-    padding-right: 60px;
+    padding-left: 40px;
+    padding-right: 40px;
 
 }
 
