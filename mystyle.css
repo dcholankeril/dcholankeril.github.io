@@ -2,47 +2,19 @@
     background-color: mintcream;
 }
 
-h1 {
-    float: right;
-    padding-left: 75px;
-    padding-right: 40px;
-    padding-top: 100px;
-    color: navy;
 
-    font-family: "Graphik", Helvetica Neue, sans-serif;
-}
-h2 {
-    float: right;
-    padding-left: 75px;
-    padding-right: 40px;
-    color: navy;
-    font-family: "Helvetica Neue", Helvetica, sans-serif;
-}
 p {
     font-family: "Droid Sans", Helvetica, sans-serif;
 }
 
-h1 {width: 80%;}
-h2 {width: 80%;}
-
-.profile-image {
-    float: right;
-    padding-left: 100px;
-    padding-right: 40px;
-
+div.diana {
+    display:flex;
 }
 
-.intro {
-     padding: 20px 30px 20px 30px;
-     margin-left: 30px;
+.diana-description {
+    align-items: center;
 }
 
-.nav-pills {
-    float: left;
-    padding-left: 100px;
-    padding-right: 40px;
-    padding-top: 20px;
-    color: navy;
-}
+
 
 div.navbar-collapse {width: 40%;}
