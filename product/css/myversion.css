@@ -3,3 +3,12 @@
     min-height: 100px;
 }
 
+.intro-header .site-heading .subheading,
+.intro-header .page-heading .subheading {
+  font-size: 24px;
+  line-height: 1.1;
+  display: block;
+  font-family: 'Garamond', 'Arial Narrow', Arial, sans-serif;
+  font-weight: 300;
+  margin: 10px 0 0;
+}
